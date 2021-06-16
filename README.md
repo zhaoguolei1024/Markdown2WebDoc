@@ -3,7 +3,7 @@
 
 官网文档：[https://doc.markdown.com](https://doc.markdown.com)
 
-作者：赵国磊 [https://zhaoguolei.com](https://zhaoguolei.com)
+作者：赵国磊
 
 简介：纯WEB前端自动解析Markdown文档
 
