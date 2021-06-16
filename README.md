@@ -1,9 +1,9 @@
 # Markdown2Web
 
 
-官网文档：[https://doc.itopdb.com](https://doc.itopdb.com)
+官网文档：[https://doc.markdown.com](https://doc.markdown.com)
 
-作者：赵国磊 [http://zhaoguolei.com](http://zhaoguolei.com)
+作者：赵国磊 [https://zhaoguolei.com](https://zhaoguolei.com)
 
 简介：纯WEB前端自动解析Markdown文档
 
